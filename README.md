@@ -1,4 +1,4 @@
-# **Title: Bussiness**
+# **Title: Bussiness Parallax Theme**
 
 
 ## **1. Live link**
